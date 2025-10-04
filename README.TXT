@@ -29,4 +29,9 @@ The purpose of this project is to demonstrate and study library classes, such
 as ArrayList, HashMap, HashSet, and Random.
 
 *****ANSWERS*****
-1.putIfAbsent method inserts a key-value if the key dosen't existin the map.
+43.putIfAbsent method inserts a key-value if the key dosen't existin the map.
+46.It show a class diagram,description on javadoc and method summaries.its good for listing.there are no errors.
+47.@author
+   @version
+   @param
+   @return

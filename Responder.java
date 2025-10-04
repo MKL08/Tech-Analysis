@@ -14,7 +14,11 @@ import java.util.Random;
  * strings and a list of default responses. If any of the input words is found
  * in the HashMap, the corresponding response is returned. If none of the input
  * words is recognized, one of the default responses is randomly chosen.
- * 
+ *
+ *@author Mai Khanh Luong
+ * @version 2.0
+ *
+ *
  * @author  Michael Kölling and David J. Barnes
  * @version 7.3
  */

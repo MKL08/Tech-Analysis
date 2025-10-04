@@ -5,6 +5,9 @@ import java.util.Map;
 /**
  * Keep a record of how many times each word was entered by users.
  * 
+ * @author Mai Khanh Luong
+ * @version 2.0
+ * 
  * @author  Michael Kölling and David J. Barnes
  * @version 7.0
  */

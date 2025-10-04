@@ -10,6 +10,9 @@ import java.util.HashSet;
  * that repeatedly reads input and generates output until the users wants to 
  * leave.
  * 
+ * @author Mai Khanh Luong
+ * @version 2.0
+ * 
  * @author  Michael Kölling and David J. Barnes
  * @version 7.4
  */
