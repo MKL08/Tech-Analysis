@@ -27,3 +27,6 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+*****ANSWERS*****
+1.putIfAbsent method inserts a key-value if the key dosen't existin the map.
